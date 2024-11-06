@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="file_organizer",  # Name of your package
+    name="file-sorter",  # Name of your package
     version="0.1.0",  # Version of your package
     author="Abhijit Khule",  # Replace with your name
     author_email="abhijitkhule0@gmail.com",  # Replace with your email
