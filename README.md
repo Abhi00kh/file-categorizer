@@ -14,7 +14,7 @@ File Organizer Pro is a Python package designed to organize files in a specified
 You can install the package using pip:
 
 ```bash
-pip install file_organizer_pro
+pip install file-categorizer
 ```
 ## Usage
 Here is an example of how to use the package:
