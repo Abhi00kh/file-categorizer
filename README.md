@@ -30,4 +30,13 @@ from file_organizer_pro.organizer import organize_files
 
 organize_files('/path/to/directory')
 ```
+## Custom Rules
+You can define custom rules for file categorization by modifying the file_types dictionary in utils.py.
 
+##Recursive Organization
+To organize files in subdirectories as well:
+```bash
+from file_organizer_pro.organizer import organize_files
+
+organize_files('/path/to/directory', recursive=True)
+```
